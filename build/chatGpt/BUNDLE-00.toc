@@ -1,0 +1,3 @@
+([('chatGpt',
+   '/Users/songlianfa/PycharmProjects/chatGpt/dist/chatGpt',
+   'EXECUTABLE')],)
